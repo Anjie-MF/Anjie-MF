@@ -4,8 +4,6 @@
 
 <p>I'm a former retail professional turned Front-End DevOps.</p>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on converting a static site to a responsive one using Flexbox. Check out my repo as I go: https://github.com/Anjie-MF/unplugged
 - 🌱 I’m currently learning...
 - 💬 Ask me about how my former career in retail benefits my budding tech career. 
