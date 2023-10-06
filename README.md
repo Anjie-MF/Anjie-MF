@@ -1,8 +1,6 @@
-![Header](./your-header-image-name.png)
+![github-header-image (4)](https://github.com/Anjie-MF/Anjie-MF/assets/133686543/92a1fea4-222a-4a94-a8ce-85324566e15a)
 
-<h1>Hi, I'm Anjie!</h1>
-
-✨Welcome to my little corner of the internet ✨
+<h1>✨Welcome to my little corner of the internet ✨</h1>
 
 <p>I'm a former retail professional turned Front-End DevOps. Driven by a love for creativity and structure, I hold a degree in Costume Design
   and Technology aka Costume Construction. Over the past seven years, I've immersed myself in the world of retail, maintaining my eye for detail without losing sight of the grander vision.</p>
