@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 <h1>Hi, I'm Anjie!</h1>
 
 ✨Welcome to my little corner of the internet ✨
