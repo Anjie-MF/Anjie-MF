@@ -2,11 +2,10 @@
 
 <h1>✨Welcome to my little corner of the internet ✨</h1>
 
-<p>I'm a former retail professional turned Front-End DevOps. Driven by a love for creativity and structure, I hold a degree in Costume Design
-  and Technology aka Costume Construction. Over the past seven years, I've immersed myself in the world of retail, maintaining my eye for detail without losing sight of the grander vision.</p>
+<p>I'm a retail professional who is making the switch to tech specifically as a Software Engineer. I am studying with Skillcrush. If you want to meet the human behind the commits, check out my LinkedIn. </p>
 
-- 🔭 I’m currently working on converting a static site to a responsive one using Flexbox. Check out my repo as I go: https://github.com/Anjie-MF/unplugged_2
-- 💬 Ask me about how my former career in retail benefits my budding tech career. 
+- 🔭 I just finished building a 3-page responsive site. Check it out:  https://anjie-mf.github.io/Your-Handy_Neighbor/ *BONUS: Can you tell me when I was getting tired? Check the commit messages😄**
+- 💬 Ask me anything!  
 - 📫 How to reach me: https://www.linkedin.com/in/anjiemay23/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: One of the unforgettable moments thus far was meeting the legendary director John Waters, during
