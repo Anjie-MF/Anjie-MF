@@ -13,6 +13,8 @@ What motivates me about coding is being at the forefront of the next wave of tec
 ## 🌐 Socials:
 - [LinkedIn](https://www.linkedin.com/in/anjiemay23)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/Anjie-MF)
+- [Dev.to](https://dev.to/anjie_mf)
+
 
 When I'm not coding, you'll find me bellydancing, practicing archery, or raving with my best girl.
 
