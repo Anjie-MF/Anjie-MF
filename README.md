@@ -1,10 +1,12 @@
 # Hey, I'm Anjelica 👋
  
-Front-end developer building responsive, accessible interfaces with HTML, CSS, JavaScript, and React.
+I'm a front-end developer who traces problems to their source, documents what I learn, and doesn't stop iterating until it actually makes sense. That approach slows me down at first, but it makes my understanding stick.
  
-I'm the Myspace millennial who spent years customizing layouts and breaking things just to understand how they worked — turns out that's just called being a developer. I trace problems to their source, document what I learn, and iterate until it actually makes sense. That approach slows me down at first, but it makes my understanding stick.
+I'm the Myspace millennial who spent years customizing layouts and breaking things to understand how they worked. Turns out that's just called being a developer.
  
-**Currently:** Collaborating with a team of 5 to build a [Wordle clone](https://github.com/chingu-voyages/V60-tier2-team-21) through [Chingu](https://www.chingu.io/) — a structured team project program for developers.
+**What I bring to a team:** I communicate clearly, take ownership of my features, and ask good questions before I go down the wrong path.
+ 
+**Currently:** Collaborating with a team of 5 to build a [Wordle clone](https://github.com/chingu-voyages/v61-tier2-team-22) through [Chingu](https://www.chingu.io/) — a structured remote team program that simulates real dev workflows: sprints, standups, and shared ownership.
  
 🌐 **[Portfolio → anjelica-mf.vercel.app](https://anjelica-mf.vercel.app/)**
  
@@ -18,12 +20,12 @@ I'm the Myspace millennial who spent years customizing layouts and breaking thin
 ---
 ## 🚀 Featured Projects
  
-| Project | What it does | Stack |
+| Project | What I built | Stack |
 |---|---|---|
-| [Sticky Notes](https://sticky-notes-pearl-two.vercel.app/) | Interactive notes app with live search and data persistence | React, localStorage API |
-| [GitHub Repo Gallery](https://anjie-mf.github.io/SC_githubRepoGalllery/) | Connects to the GitHub REST API to display and search public repos | JavaScript, Fetch API, Async/Await |
-| [Random Artwork](https://anjie-mf.github.io/devChallenges_RandomArtwork/) | Pulls artwork from an external API with dynamic rendering | JavaScript, REST API |
-| [Your Handy Neighbor](https://anjie-mf.github.io/Your-Handy_Neighbor/) | 3-page responsive site built with accessibility and color theory in mind | HTML, CSS, JS |
+| [Sticky Notes](https://sticky-notes-pearl-two.vercel.app/) | Built an interactive notes app with live search and localStorage persistence | React, localStorage API |
+| [GitHub Repo Gallery](https://anjie-mf.github.io/SC_githubRepoGalllery/) | Fetched and displayed live GitHub repos using async JS and the REST API | JavaScript, Fetch API, Async/Await |
+| [Random Artwork](https://anjie-mf.github.io/devChallenges_RandomArtwork/) | Dynamically rendered artwork pulled from an external API | JavaScript, REST API |
+| [Your Handy Neighbor](https://anjie-mf.github.io/Your-Handy_Neighbor/) | Designed and built a 3-page responsive site with accessibility and color theory in mind | HTML, CSS, JS |
  
 ---
 ## 🌐 Let's Connect:
