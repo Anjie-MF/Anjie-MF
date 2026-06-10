@@ -1,35 +1,36 @@
-# 💫 About Me:
+# Hey, I'm Anjelica 👋
+ 
+Front-end developer building responsive, accessible interfaces with HTML, CSS, JavaScript, and React.
+ 
+I'm the Myspace millennial who spent years customizing layouts and breaking things just to understand how they worked — turns out that's just called being a developer. I trace problems to their source, document what I learn, and iterate until it actually makes sense. That approach slows me down at first, but it makes my understanding stick.
+ 
+**Currently:** Collaborating with a team of 5 to build a [Wordle clone](https://github.com/chingu-voyages/V60-tier2-team-21) through [Chingu](https://www.chingu.io/) — a structured team project program for developers.
+ 
+🌐 **[Portfolio → anjelica-mf.vercel.app](https://anjelica-mf.vercel.app/)**
+ 
+---
+## 🛠️ Tech Stack
+ 
+**Languages:** HTML, CSS, JavaScript  
+**Frameworks & Tools:** React, Vite, npm  
+**Workflow:** Git, GitHub, Vercel, Netlify
 
-👋Hi! I'm Anjelica, currently the Freight Flow Lead at my store—a role that's all about being the go-to person for moving products efficiently from the backroom to the sales floor and making sure everything looks great. As the captain of both the backroom and store presentation, I lead a team, plan and organize shipments, keep displays neat and compliant, and support management with key tasks. I am coaching my teammates, setting a positive example, and making sure everyone feels respected and included.
-
-While I thrive in retail leadership, I'm also passionate about technology and am currently enrolled in the Skillcrush bootcamp, learning to become a Front-End Developer. My skills include JavaScript, HTML, and CSS, and I love blending creativity and logic in my projects. Some of my favorite coding projects are:
-
-- [Random Artwork](https://github.com/Anjie-MF/devChallenges_RandomArtwork)
-- [Your Handy Neighbor](https://github.com/Anjie-MF/Your-Handy_Neighbor)
-- [Testimonials Grid](https://github.com/Anjie-MF/FEM_testimonialsGrids_figmaChallenge)
-
-What motivates me about coding is being at the forefront of the next wave of tech—especially the AI revolution. For a long time, I thought tech was just for the "Sheldon Coopers" of the world, but now I know it's truly for everyone. I love the blend of creative and analytical thinking in front-end development. My current technical toolkit includes HTML, CSS, JavaScript, Git, & GitHub. I'm proficient in responsive web design and leverage Chrome Dev Tools for efficient debugging.  Debugging can be tough, but nothing beats the satisfaction of seeing a beautiful page finally render after a long night!🌟 Fun fact: With my ADHD, my ability to hyperfocus allows me to dive deep into complex coding challenges and deliver high-quality results. 
-
-## 🌐 Socials:
+---
+## 🚀 Featured Projects
+ 
+| Project | What it does | Stack |
+|---|---|---|
+| [Sticky Notes](https://sticky-notes-pearl-two.vercel.app/) | Interactive notes app with live search and data persistence | React, localStorage API |
+| [GitHub Repo Gallery](https://anjie-mf.github.io/SC_githubRepoGalllery/) | Connects to the GitHub REST API to display and search public repos | JavaScript, Fetch API, Async/Await |
+| [Random Artwork](https://anjie-mf.github.io/devChallenges_RandomArtwork/) | Pulls artwork from an external API with dynamic rendering | JavaScript, REST API |
+| [Your Handy Neighbor](https://anjie-mf.github.io/Your-Handy_Neighbor/) | 3-page responsive site built with accessibility and color theory in mind | HTML, CSS, JS |
+ 
+---
+## 🌐 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/anjiemay23)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/Anjie-MF)
 - [Dev.to](https://dev.to/anjie_mf)
 
-
-When I'm not coding, you'll find me bellydancing, practicing archery, or raving with my best girl.
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anjie-MF&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjie-MF&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anjie-MF&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+ 
+*When I'm not coding, I'm bellydancing, practicing archery, or sewing something new.*
