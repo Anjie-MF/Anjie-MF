@@ -6,15 +6,13 @@ I'm the Myspace millennial who spent years customizing layouts and breaking thin
  
 **What I bring to a team:** I communicate clearly, take ownership of my features, and ask good questions before I go down the wrong path.
  
-**Currently:** Collaborating with a team of 5 to build a [Wordle clone](https://github.com/chingu-voyages/v61-tier2-team-22) through [Chingu](https://www.chingu.io/) — a structured remote team program that simulates real dev workflows: sprints, standups, and shared ownership.
- 
 🌐 **[Portfolio → anjelica-mf.vercel.app](https://anjelica-mf.vercel.app/)**
  
 ---
 ## 🛠️ Tech Stack
  
 **Languages:** HTML, CSS, JavaScript  
-**Frameworks & Tools:** React, Vite, npm  
+**Frameworks & Tools:** React, Vite, npm, React Hooks 
 **Workflow:** Git, GitHub, Vercel, Netlify
 
 ---
