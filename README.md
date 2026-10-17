@@ -1,4 +1,5 @@
-[# Hey, I'm Anjelica 👋
+Hey,Y'all!
+I'm Anjelica 👋
  
 I'm a front-end developer who traces problems to their source, documents what I learn, and doesn't stop iterating until it actually makes sense. That approach slows me down at first, but it makes my understanding stick.
  
@@ -9,9 +10,6 @@ I'm the Myspace millennial who spent years customizing layouts and breaking thin
 🌐 **[Portfolio → anjelica-mf.vercel.app](https://anjelica-mf.vercel.app/)**
  
 ---
-## 🛠️ Tech Stack
- 
----
 ## 🚀 Featured Projects
  
 | Project | What I built | Stack |
@@ -20,7 +18,6 @@ I'm the Myspace millennial who spent years customizing layouts and breaking thin
 | [Virtual Keyboard](https://github.com/Anjie-MF/react-virtual-keyboard) | Reusable on-screen keyboard component built in React | React, HTML, CSS
 | [Random Artwork](https://anjie-mf.github.io/devChallenges_RandomArtwork/) | Dynamically rendered artwork pulled from an external API | JavaScript, REST API, HTML, CSS
 
- 
 ---
 ## 🌐 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/anjiemay23)
