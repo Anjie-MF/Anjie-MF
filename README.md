@@ -1,4 +1,4 @@
-# Hey, I'm Anjelica 👋
+[# Hey, I'm Anjelica 👋
  
 I'm a front-end developer who traces problems to their source, documents what I learn, and doesn't stop iterating until it actually makes sense. That approach slows me down at first, but it makes my understanding stick.
  
@@ -11,19 +11,15 @@ I'm the Myspace millennial who spent years customizing layouts and breaking thin
 ---
 ## 🛠️ Tech Stack
  
-**Languages:** HTML, CSS, JavaScript  
-**Frameworks & Tools:** React, Vite, npm, React Hooks 
-**Workflow:** Git, GitHub, Vercel, Netlify
-
 ---
 ## 🚀 Featured Projects
  
 | Project | What I built | Stack |
 |---|---|---|
-| [Sticky Notes](https://sticky-notes-pearl-two.vercel.app/) | Built an interactive notes app with live search and localStorage persistence | React, localStorage API |
-| [GitHub Repo Gallery](https://anjie-mf.github.io/SC_githubRepoGalllery/) | Fetched and displayed live GitHub repos using async JS and the REST API | JavaScript, Fetch API, Async/Await |
-| [Random Artwork](https://anjie-mf.github.io/devChallenges_RandomArtwork/) | Dynamically rendered artwork pulled from an external API | JavaScript, REST API |
-| [Your Handy Neighbor](https://anjie-mf.github.io/Your-Handy_Neighbor/) | Designed and built a 3-page responsive site with accessibility and color theory in mind | HTML, CSS, JS |
+| [Yoga with Briii](https://github.com/Anjie-MF/Yoga_with_Briii) | A real client marketing website for a mobile yoga instructor | JavaScript, HTML, CSS
+| [Virtual Keyboard](https://github.com/Anjie-MF/react-virtual-keyboard) | Reusable on-screen keyboard component built in React | React, HTML, CSS
+| [Random Artwork](https://anjie-mf.github.io/devChallenges_RandomArtwork/) | Dynamically rendered artwork pulled from an external API | JavaScript, REST API, HTML, CSS
+
  
 ---
 ## 🌐 Let's Connect:
@@ -34,3 +30,4 @@ I'm the Myspace millennial who spent years customizing layouts and breaking thin
 ---
  
 *When I'm not coding, I'm bellydancing, practicing archery, or sewing something new.*
+](https://codeprepped.com/github)
