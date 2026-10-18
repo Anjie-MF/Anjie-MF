@@ -27,4 +27,3 @@ I'm the Myspace millennial who spent years customizing layouts and breaking thin
 ---
  
 *When I'm not coding, I'm bellydancing, practicing archery, or sewing something new.*
-](https://codeprepped.com/github)
